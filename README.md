@@ -18,7 +18,7 @@ body { margin:0; font-family:'Nunito',sans-serif; background:#fffbf0; }
 
 <body>
 
-<h1 style="text-align:center;color:#e11d48;">Geladinhos da Vovó 🍦</h1>
+<h1 style="text-align:center;color:#e11d48;">Geladinhos da mily🍦</h1>
 
 <div id="products"></div>
 
